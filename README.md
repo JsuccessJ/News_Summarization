@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://drive.google.com/file/d/14oH3T4Gwqipltc7bfKEYAoVtSZxCqWGv/view?usp=sharing">
-    <img width="797" alt="뉴스기사 요약 모델 만들기" src="https://github.com/user-attachments/assets/b4cbd7f4-1325-4959-8eb8-f44bab32cc33">
+    <img width="793" alt="뉴스기사 요약 모델 만들기" src="https://github.com/user-attachments/assets/c1443c2d-503d-45c0-a8c3-fa6ef9440f9d">
   </a>
 </div>
 
